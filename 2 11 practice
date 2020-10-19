@@ -1,0 +1,15 @@
+<h1>A Title</h>
+<p>this is a paragraph of text. i will add another sentence</p>
+<!-- This is a Comment -->
+<blockquote>
+  It idents text on both sides of the screen
+</blockquote>
+<strong>Stronger Text</strong><br>
+<em>Emphasis Text</em><br>
+<b>Bolds the text</b><br>
+<i>Italics</i><br>
+<small>Small printed text</small><br>
+<sub>Goes low</sub><br>
+<sup>Goes High</sup><br>
+<mark>This highlights text</mark><br>
+<p>H<sub><small>2</small></sub>0 and 2<sup><small>3</small></sup> is 8 </p>
